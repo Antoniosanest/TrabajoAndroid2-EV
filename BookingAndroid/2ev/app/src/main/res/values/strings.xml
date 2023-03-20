@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BookingAndroid</string>
+    <string-array name="search_options">
+        <item>Buscar por reservas</item>
+        <item>Buscar por destacados</item>
+    </string-array>
+
+</resources>
